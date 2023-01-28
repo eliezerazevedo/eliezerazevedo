@@ -11,6 +11,12 @@ Aqui estão algumas idéias para você começar:
 - 👯 Estou procurando colaborar em prevençao do meio ambiente
 - ⚡ Curiosidade: Apaixonado em voar.
 
+<div>
+<a href="https://github.com/eliezerazevedo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerazevedo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezerazevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Contatos:
 
 <div>
