@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá pessoal 👋
 
-<!--
-**eliezerazevedo/eliezerazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! --
 
-Here are some ideas to get you started:
+**eliezerazevedo/eliezerazevedo** é um repositório ✨ _especial_ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aqui estão algumas idéias para você começar:
+
+- 🔭 Atualmente estou trabalhando em soluçoes e inovações para Outsourcing de Impressao e Arquivo Digital
+- 🌱 Atualmente estou aprendendo Integraçao CLI e ODBC
+- 👯 Estou procurando colaborar em prevençao do meio ambiente
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eliezerazevedo)](https://github.com/eliezerazevedo)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerazevedo/)](https://www.linkedin.com/in/eliezerazevedo/)
+- ⚡ Curiosidade: Apaixonado em voar.
+
 -->
