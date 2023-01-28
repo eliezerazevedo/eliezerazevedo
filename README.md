@@ -9,9 +9,12 @@ Aqui estão algumas idéias para você começar:
 - 🔭 Atualmente estou trabalhando em soluçoes e inovações para Outsourcing de Impressao e Arquivo Digital
 - 🌱 Atualmente estou aprendendo Integraçao CLI e ODBC
 - 👯 Estou procurando colaborar em prevençao do meio ambiente
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eliezerazevedo)](https://github.com/eliezerazevedo)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerazevedo/)](https://www.linkedin.com/in/eliezerazevedo/)
 - ⚡ Curiosidade: Apaixonado em voar.
 
--->
+## Contatos:
+
+<div>
+<a href="https://instagram.com/eliezerazevedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:eliezer.system@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eliezerazevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
