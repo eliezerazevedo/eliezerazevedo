@@ -4,11 +4,8 @@
 
 **eliezerazevedo/eliezerazevedo** é um repositório ✨ _especial_ ✨
 
-Aqui estão algumas idéias para você começar:
-
 - 🔭 Atualmente estou trabalhando em soluçoes e inovações para Outsourcing de Impressao e Arquivo Digital
-- 🌱 Atualmente estou aprendendo Integraçao CLI e ODBC
-- 👯 Estou procurando colaborar em prevençao do meio ambiente
+- 🌱 Atualmente estou aprendendo Integraçao ODBC
 - ⚡ Curiosidade: Apaixonado em voar.
 
 <center>
